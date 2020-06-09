@@ -1,2 +1,0 @@
-DOCKER_DESCRIPTION="Docker container for ADS-B - This is the flightradar24.com component"
-DOCKER_NAME="flightradar24"
